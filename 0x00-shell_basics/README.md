@@ -12,4 +12,5 @@ this readme contains the description of what each script does :
 11 - 10-back: this script  changes the working directory to the previous one.
 12 - 11-lists: this script lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 13 - 12-file_type: this script type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
-14 - 13-symbolic_link: this script creats a symbolic link with the ls command  
+14 - 13-symbolic_link: this script creats a symbolic link with the ls command
+15 - 14-copy_html: this script copy html files   
