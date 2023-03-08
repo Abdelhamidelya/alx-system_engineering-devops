@@ -7,4 +7,5 @@ this readme contains the description of what each script does :
 6 - 5-listfilesdigitonly: this script list all files with their grp IDs dispalyed numerically
 7 - 6-firstdirectory: this script creates a directory named my_first_directory in the /tmp/ directory.
 8 - 7-movethatfile: this script Moves the file betty from /tmp/ to /tmp/my_first_directory.
-9 - 8-firstdelete: this scripts delets the file betty 
+9 - 8-firstdelete: this scripts delets the file betty
+10 - 9-firstdirdeletion:  this sceipt delets the directory named my_first_directory 
