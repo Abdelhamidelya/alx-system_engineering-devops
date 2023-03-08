@@ -5,4 +5,5 @@ this readme contains the description of what each script does :
 4 - 3-listfiles: this script Display current directory contents in a long format
 5 - 4-listmorefiles: this script Display current directory contents, including hidden files (starting with .). Use the long format
 6 - 5-listfilesdigitonly: this script list all files with their grp IDs dispalyed numerically
-7 - 6-firstdirectory: this script creates a directory named my_first_directory in the /tmp/ directory. 
+7 - 6-firstdirectory: this script creates a directory named my_first_directory in the /tmp/ directory.
+8 - 7-movethatfile: this script Moves the file betty from /tmp/ to /tmp/my_first_directory. 
