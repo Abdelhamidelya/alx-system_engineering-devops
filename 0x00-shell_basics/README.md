@@ -14,3 +14,7 @@
 13- 13-symbolic_link: this script Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 14- 14-copy_html: this script copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 15- 100-lets_move: this script moves files that starts with upper case letter
+16- 101-clean_emacs: this script eletes all files in the current working directory that end with the character ~
+17- 102-tree : this script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+18- 103-commas: this script lists all the files and directories of the current directory, separated by commas 
+19- 
